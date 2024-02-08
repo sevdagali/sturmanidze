@@ -9,7 +9,7 @@
 
 ###
 
-- 🔭 Currently, **I'm honing my skills as a data scientist/analyst, leveraging my background in economics and recent certifications to unlock insights and drive informed decision-making through data.**
+- 🔭 Currently, **I'm honing my skills as a data scientist/analyst, leveraging my background in economics/finance and recent certifications to unlock insights and drive informed decision-making through data.**
 
 - 🤔 While I'm confident in my abilities, **I'm always open to learning from others and seeking help.**
 
