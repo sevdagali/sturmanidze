@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Sevda, a data enthusiast armed with a Bachelor's degree in Economics from Montclair State University. 
-  Passionate about the transformative power of data-driven decision-making, I'm excited to embark on my journey as a data scientist/analyst.</h4>
+<h1 align="center">Hi, I'm Sevda, a data enthusiast passionate about the transformative power of data-driven decision-making. Excited to embark on my journey as a data scientist/analyst..</h4>
 
 <picture align="center" > 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
